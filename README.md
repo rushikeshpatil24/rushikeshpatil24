@@ -1,13 +1,30 @@
-# Hi 👋, I'm Rushikesh
+# Hi 👋, I'm Rushikesh Patil
 
-💻 Beginner Developer
-🌱 Currently learning Programming
-🚀 Interested in Web Development
+💻 Beginner Developer from India  
+🌱 Currently learning Programming & Web Development  
+🚀 Goal: Become a Full Stack Developer  
 
-## 🚀 Skills
-- HTML 
-- CSS 
-- JavaScript (Learning)
+---
 
-## 📚 About Me
-I am starting my coding journey and building projects step by step.
+## 🧠 Skills (Learning)
+- HTML
+- CSS
+- JavaScript
+- C,C++
+- Java
+- Python
+- Git & GitHub
+
+---
+
+## 📊 GitHub Stats
+![Rushikesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rushikeshpatil24&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=rushikeshpatil24&theme=tokyonight)
+
+---
+
+⭐ Learning step by step and building projects everyday!
