@@ -17,14 +17,4 @@
 
 ---
 
-## 📊 GitHub Stats
-![Rushikesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rushikeshpatil24&show_icons=true&theme=tokyonight)
-
----
-
-## 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=rushikeshpatil24&theme=tokyonight)
-
----
-
 ⭐ Learning step by step and building projects everyday!
